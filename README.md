@@ -1,16 +1,44 @@
-### Hi there 👋
+# Hi there, I'm Elliot Lee 👋
 
-<!--
-**ProAardvark/ProAardvark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full Stack Developer, Creator, and Lifelong Learner!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on web3 project
+- 🌱 I’m currently learning blockchain technology and solidity
+- 👯 I’m looking to collaborate on [Project or Topic]
+- 🤔 I’m looking for help with some issues
+- 💬 Ask me about web3 technology
+- 📫 How to reach me: eliteK.dev68@gmail.com
+- 😄 Pronouns: He/His/Him
+- ⚡ Fun fact: I've learned 5 programming languages in the pursuit of mastering smart contract development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="LinkedIn URL" width="22px" src="LinkedIn Logo URL" />][linkedin]
+[<img align="left" alt="Twitter URL" width="22px" src="Twitter Logo URL" />][twitter]
+
+<br />
+
+
+### Languages and Tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+<br />
+<br />
+
+---
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+
+[linkedin]: https://www.linkedin.com/in/yourlinkedin/
+[twitter
