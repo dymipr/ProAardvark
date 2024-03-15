@@ -35,8 +35,5 @@
 <br />
 
 ---
-
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
-
 [linkedin]: https://www.linkedin.com/in/yourlinkedin/
 [twitter
