@@ -11,13 +11,11 @@
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I've learned 5 programming languages in the pursuit of mastering smart contract development.
 
-### Connect with me:
 
-[<img align="left" alt="LinkedIn URL" width="22px" src="LinkedIn Logo URL" />][linkedin]
-[<img align="left" alt="Twitter URL" width="22px" src="Twitter Logo URL" />][twitter]
 
 <br />
-
+<br />
+<br />
 
 ### Languages and Tools:
 
