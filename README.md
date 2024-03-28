@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer, Creator, and Lifelong Learner!
 
-- 🔭 I’m currently working on web3 project
+- 🔭 I’m currently working on front end development
 - 🌱 I’m currently learning blockchain technology and solidity
 - 👯 I’m looking to collaborate on [Project or Topic]
 - 🤔 I’m looking for help with some issues
