@@ -1,4 +1,4 @@
-# Hi there, I'm Elliot Lee 👋
+# Hi there, I'm Adam Baze 👋
 
 ## I'm a Full Stack Developer, Creator, and Lifelong Learner!
 
@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on [Project or Topic]
 - 🤔 I’m looking for help with some issues
 - 💬 Ask me about web3 technology
-- 📫 How to reach me: eliteK.dev68@gmail.com
+- 📫 How to reach me: risemeup73@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I've learned 5 programming languages in the pursuit of mastering smart contract development.
 
