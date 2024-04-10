@@ -1,4 +1,4 @@
-# Hi there, I'm Adam Baze 👋
+# Hi there 👋
 
 ## I'm a Full Stack Developer, Creator, and Lifelong Learner!
 
