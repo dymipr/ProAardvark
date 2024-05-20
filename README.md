@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on front end development
 - 🌱 I’m currently learning blockchain technology and solidity
-- 👯 I’m looking to collaborate on [Project or Topic]
+- 👯 I’m looking to collaborate on Web3 Project
 - 🤔 I’m looking for help with some issues
 - 💬 Ask me about web3 technology
 - 📫 How to reach me: risemeup73@gmail.com
