@@ -3,11 +3,10 @@
 ## I'm a Full Stack Developer, Creator, and Lifelong Learner!
 
 - 🔭 I’m currently working on front end development
-- 🌱 I’m currently learning blockchain technology and solidity
+- 🌱 I’m also currently working on blockchain technology and solidity
 - 👯 I’m looking to collaborate on Web3 Project
 - 🤔 I’m looking for help with some issues
 - 💬 Ask me about web3 technology
-- 📫 How to reach me: risemeup73@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I've learned 5 programming languages in the pursuit of mastering smart contract development.
 
